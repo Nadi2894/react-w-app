@@ -8,7 +8,7 @@ export default function App() {
         <Weather defaultCity="Tokyo" />
         <footer>
           This page was made by Nadira-Begim and is {""}
-          <a href="https://github.com/Nadi2894/react-weather-appp">
+          <a href="https://github.com/Nadi2894/react-w-app">
             open-sourced on GitHub{" "}
           </a>
         </footer>
