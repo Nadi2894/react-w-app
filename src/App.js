@@ -8,8 +8,21 @@ export default function App() {
         <Weather defaultCity="Tokyo" />
         <footer>
           This page was made by Nadira-Begim and is {""}
-          <a href="https://github.com/Nadi2894/react-w-app">
+          <a
+            href="https://github.com/Nadi2894/react-w-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             open-sourced on GitHub{" "}
+          </a>{" "}
+          and
+          <a
+            href="https://famous-mochi-3b1a23.netlify.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {" "}
+            hosted on Netlify
           </a>
         </footer>
       </div>
