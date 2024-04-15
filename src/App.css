@@ -6,3 +6,11 @@
   font-size: 11px;
   margin: 10px 0;
 }
+.App footer a:hover {
+  color: orange;
+}
+body {
+  background-image: url("https://images.pexels.com/photos/164175/pexels-photo-164175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  max-width: 100%;
+  background-size: cover;
+}
